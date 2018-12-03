@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hello! 
+
+My name is Lianne and I like cats, enjoy cooking as well as cosplaying. 
